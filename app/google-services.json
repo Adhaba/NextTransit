@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810316262015",
+    "project_id": "nexttransit-90cd2",
+    "storage_bucket": "nexttransit-90cd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810316262015:android:4b773a02fd87fee14ced4a",
+        "android_client_info": {
+          "package_name": "com.adhaba.nexttransit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp1-cH4jU1c-TQX5a_caUGTlYjehSKCiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NextTransit</string>
+    <string name="select_your_seat">Select your seat!</string>
+    <string name="about">NexTransit simplifies your bus travel by seamlessly connecting you with the best bus routes available. Whether you are commuting daily or planning a one-off trip, our app ensures a hassle-free booking experience. With NexTransit, you can easily search for buses and book tickets. Our user-friendly interface and integrated support for multiple transportation modes make planning your journey easier than ever. Choose NexTransit for a reliable, efficient, and inclusive travel companion.</string>
+    <string name="baushar">Baushar</string>
+    <string name="suhar">Suhar</string>
+    <string name="_07th_may_2024_tuesday">07th - MAY - 2024 | Tuesday</string>
+    <string name="_9_00am_12_30pm">9:00AM - 12:30PM</string>
+    <string name="expo_bus_service">Expo bus service</string>
+    <string name="_5_omr">5 OMR</string>
+    <string name="_3_30_hour">3.30 Hour</string>
+    <string name="booked">Booked</string>
+    <string name="available">Available</string>
+    <string name="a_c_sleeper_2_2">A/C Sleeper (2+2)</string>
+    <string name="your_seat">Your Seat</string>
+    <string name="select_your_bus">Select your bus!</string>
+    <string name="bawshar">Bawshar</string>
+    <string name="_1">1</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="sohar">Sohar</string>
+</resources>
